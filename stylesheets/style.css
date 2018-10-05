@@ -1,0 +1,66 @@
+body{
+    background-color: #f2f2f2;
+}
+
+#page-body{
+    max-width: 1440px;
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#logo{
+    padding-top: 25px;
+    /*padding-bottom: 5px;*/
+}
+
+#header{
+    background-color: #ffffff;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 100px;
+}
+
+#header-rigth-arrow{
+    float: right;
+}
+
+#name{
+    font-size: 85px;
+}
+
+#lastname{
+    font-size: 85px;
+    margin-bottom: 10px;
+}
+
+#career{
+    font-size: 37px;
+}
+
+.light-purple{
+    background-color: #c0bcf3;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 150px;
+}
+
+.purple{
+    background-color: #8eacf4;
+    padding-left: 60px;
+    padding-top: 75px;
+}
+
+.read-more{
+    color: #212529;
+    text-decoration: underline;
+}
+
+.read-more:hover{
+    color: #3a3c3f;
+    text-decoration: underline;
+}
+
+.color-arrow{
+    margin-top: 75px;
+}
